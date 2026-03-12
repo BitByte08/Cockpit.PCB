@@ -1,0 +1,148 @@
+\t (00:00:17) allegro 22.1 S008 Windows SPB 64-bit Edition
+\t (00:00:17)     Journal start - Thu Mar 12 20:08:52 2026
+\t (00:00:17)         Host=ST15 User=PC Pid=15060 CPUs=16
+\t (00:00:17) CmdLine= C:\Cadence\SPB_22.1\tools\bin\allegro.exe
+\t (00:00:17) 
+\d (00:00:17) Design opened: C:/Users/PC/Desktop/Cockpit.PCB/simbol/SMD0805.dra
+\i (00:00:18) trapsize 1782
+\i (00:00:18) generaledit 
+\i (00:00:19) pick grid -3.5975 -0.1270
+\t (00:00:19) last pick:  -3.5560 0.0000
+\i (00:00:21) prepopup -3.3124 -0.4121
+\i (00:00:24) pop dyn_option_select @:@Delete 
+\i (00:00:24) delete 
+\i (00:00:24) generaledit 
+\i (00:00:25) pick grid -0.5323 -0.4834
+\t (00:00:25) last pick:  -0.5080 -0.5080
+\i (00:00:25) prepopup -0.4254 -0.3408
+\i (00:00:27) pop dyn_option_select @:@Delete 
+\i (00:00:27) delete 
+\i (00:00:27) generaledit 
+\i (00:00:32) label refdes 
+\t (00:00:32) Pick text location.
+\i (00:00:37) pick grid -0.6749 -0.0913
+\t (00:00:37) last pick:  -0.7620 0.0000
+\t (00:00:37) Enter text string.
+\i (00:00:47) setwindow pcb
+\i (00:00:47) pick -0.7620 0.0000
+\i (00:00:48) prepopup 0.0023 0.1225
+\i (00:00:51) next 
+\i (00:00:54) setwindow form.mini
+\i (00:00:54) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) updateport CVPane
+\i (00:00:55) pick grid -4.0609 0.1582
+\t (00:00:55) last pick:  -4.0640 0.2540
+\t (00:00:55) Enter text string.
+\i (00:00:56) setwindow pcb
+\i (00:00:56) pick -4.0640 0.2540
+\i (00:00:57) prepopup -3.7044 0.4789
+\i (00:00:59) oops 
+\t (00:00:59) last pick:  -0.7620 0.0000
+\t (00:00:59) Pick text location.
+\i (00:01:01) prepopup -3.3837 0.2294
+\i (00:01:01) pick grid -3.7757 0.9779
+\t (00:01:01) last pick:  -3.8100 1.0160
+\t (00:01:01) Enter text string.
+\i (00:01:03) setwindow pcb
+\i (00:01:03) pick -3.8100 1.0160
+\i (00:01:04) prepopup -5.2727 -1.6239
+\i (00:01:04) done 
+\i (00:01:04) generaledit 
+\i (00:01:05) prepopup -3.7044 1.6195
+\i (00:01:06) pop dyn_option_select @:@Move 
+\i (00:01:06) move 
+\t (00:01:06) last pick:  -3.8100 1.5240
+\t (00:01:06) last pick:  -3.8100 1.5240
+\t (00:01:06) Pick new location for the element(s).
+\i (00:01:08) pick grid -3.2055 -0.0201
+\t (00:01:08) last pick:  -3.3020 0.0000
+\i (00:01:08) generaledit 
+\i (00:01:08) pick grid -1.6016 0.9423
+\t (00:01:08) last pick:  -1.5240 1.0160
+\i (00:01:09) prepopup -1.6016 0.9423
+\i (00:01:10) pop dyn_option_select @:@Move 
+\i (00:01:10) move 
+\t (00:01:10) last pick:  -1.5240 1.0160
+\t (00:01:10) last pick:  -1.5240 1.0160
+\t (00:01:10) Pick new location for the element(s).
+\i (00:01:12) pick grid -1.0313 0.4076
+\t (00:01:12) last pick:  -1.0160 0.5080
+\i (00:01:12) generaledit 
+\i (00:01:13) save 
+\i (00:01:19) fillin no 
+\i (00:01:51) fillin "L0805.dra"
+\t (00:01:51) Symbol 'l0805.psm' created.
+\i (00:01:51) generaledit 
+\i (00:01:52) pick grid 0.1092 -0.2339
+\t (00:01:52) last pick:  0.0000 -0.2540
+\i (00:01:52) prepopup 0.1092 -0.2339
+\i (00:01:59) pop dyn_option_select @:@Delete 
+\i (00:01:59) delete 
+\i (00:01:59) generaledit 
+\i (00:02:02) save 
+\i (00:02:04) fillin yes 
+\t (00:02:05) Symbol 'l0805.psm' created.
+\i (00:02:05) generaledit 
+\i (00:02:05) open 
+\i (00:02:08) fillin "R0805.dra"
+\t (00:02:08) Opening existing design...
+\t (00:02:08) Grids are drawn 16.2560, 16.2560 apart for enhanced viewing.
+\i (00:02:08) trapsize 1539
+\d (00:02:08) Design opened: C:/Users/PC/Desktop/Cockpit.PCB/simbol/R0805.dra
+\i (00:02:08) generaledit 
+\i (00:02:09) pick grid -0.3857 -0.2336
+\t (00:02:09) last pick:  -0.5080 -0.2540
+\i (00:02:10) prepopup -0.0471 -0.0797
+\i (00:02:11) pop dyn_option_select @:@Delete 
+\i (00:02:11) delete 
+\i (00:02:11) generaledit 
+\i (00:02:13) save 
+\i (00:02:14) fillin yes 
+\t (00:02:14) Symbol 'r0805.psm' created.
+\i (00:02:14) generaledit 
+\i (00:02:15) open 
+\i (00:02:16) fillin "C0805.dra"
+\t (00:02:16) Opening existing design...
+\t (00:02:16) Grids are drawn 16.2560, 16.2560 apart for enhanced viewing.
+\i (00:02:16) trapsize 1539
+\d (00:02:16) Design opened: C:/Users/PC/Desktop/Cockpit.PCB/simbol/C0805.dra
+\i (00:02:17) generaledit 
+\i (00:02:17) pick grid 0.4763 -0.2952
+\t (00:02:17) last pick:  0.5080 -0.2540
+\i (00:02:18) prepopup 0.4763 -0.2952
+\i (00:02:19) pop dyn_option_select @:@Delete 
+\i (00:02:19) delete 
+\i (00:02:19) generaledit 
+\i (00:02:20) save 
+\i (00:02:21) fillin yes 
+\t (00:02:21) Symbol 'c0805.psm' created.
+\i (00:02:21) generaledit 
+\i (00:02:22) open 
+\i (00:02:23) fillin "SMD0805.dra"
+\t (00:02:23) Opening existing design...
+\t (00:02:23) Grids are drawn 16.2560, 16.2560 apart for enhanced viewing.
+\i (00:02:23) trapsize 1539
+\d (00:02:23) Design opened: C:/Users/PC/Desktop/Cockpit.PCB/simbol/SMD0805.dra
+\i (00:02:23) generaledit 
+\i (00:02:24) pick grid 0.3531 -0.1105
+\t (00:02:24) last pick:  0.2540 0.0000
+\i (00:02:25) prepopup -0.0471 -0.5107
+\i (00:02:27) pop dyn_option_select @:@Delete 
+\i (00:02:27) delete 
+\i (00:02:27) generaledit 
+\i (00:02:28) prepopup -3.1870 0.0435
+\i (00:02:29) pop dyn_option_select @:@Delete 
+\i (00:02:29) delete 
+\i (00:02:29) generaledit 
+\i (00:02:29) pick grid -2.2327 -5.1898
+\t (00:02:29) last pick:  -2.2860 -5.0800
+\i (00:02:29) save 
+\i (00:02:30) fillin yes 
+\e (00:02:30) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:02:30) generaledit 
+\i (00:02:34) setwindow text
+\i (00:02:34) close
+\i (00:02:36) setwindow pcb
+\i (00:02:36) exit 
+\t (00:02:36)     Journal end - Thu Mar 12 20:11:11 2026

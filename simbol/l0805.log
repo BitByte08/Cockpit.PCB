@@ -1,14 +1,23 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    Downrev Design                                                   )
+(    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : C0805.dra                                     )
+(    Drawing          : L0805.dra                                     )
 (    Software Version : 22.1S008                                      )
-(    Date/Time        : Thu Mar 12 20:10:55 2026                      )
+(    Date/Time        : Thu Mar 12 20:10:39 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/PC/Desktop/Cockpit.PCB/simbol
+    Name      = l0805.psm
+    User      = PC
+    Machine   = ST15
 
-Changes made to design for 17.2 compatibility.
+
+Create symbol started.
+ 
+
+Create symbol completed.
 

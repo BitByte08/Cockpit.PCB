@@ -1,0 +1,356 @@
+\t (00:00:01) allegro 22.1 S008 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Thu Mar 12 20:12:45 2026
+\t (00:00:01)         Host=ST15 User=PC Pid=10296 CPUs=16
+\t (00:00:01) CmdLine= C:\Cadence\SPB_22.1\tools\bin\allegro.exe -mpssession PC -proj C:\USERS\PC\DESKTOP\COCKPIT.PCB\COCKPIT_TRANSMISSIONSHIFTERUNIT.opj C:/Users/PC/Desktop/Cockpit.PCB/allegro/cockpit_transmissionshifterunit.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\e (00:00:03) Retrieval of 'OrCAD_PCB_Designer_PSpice' license failed: 'ERROR (LMF-13005): License call failed for feature OrCAD_PCB_Editor. The license server search path is defined as 5280@teacher. The FLEXnet error message is as follows,
+    FLEXnet ERROR(-5, 234, 0): No such feature exists.
+
+Run 'lic_error LMF-13005' for more information.'. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:05) fillin confirm
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "cockpit_transmissionshifterunit"
+\d (00:00:05) Design opened: C:/Users/PC/Desktop/Cockpit.PCB/allegro/cockpit_transmissionshifterunit.brd
+\i (00:00:05) trapsize 7824
+\i (00:00:05) trapsize 8034
+\i (00:00:05) trapsize 7824
+\i (00:00:05) trapsize 9444
+\t (00:00:05) > Sending response DoneOpenBoard
+\i (00:00:05) generaledit 
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 12674.44 8481.11
+\i (00:00:07) trapsize 9444
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 12674.44 8481.11
+\i (00:00:07) trapsize 9444
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 12674.44 8481.11
+\i (00:00:07) trapsize 9444
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 12674.44 8481.11
+\i (00:00:07) trapsize 9444
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 12674.44 8481.11
+\i (00:00:07) trapsize 9444
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 12674.44 8481.11
+\i (00:00:07) trapsize 4722
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 12674.44 8481.11
+\i (00:00:07) trapsize 2361
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 12674.44 8481.12
+\i (00:00:07) trapsize 1181
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 12674.45 8481.12
+\i (00:00:07) trapsize 590
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 12674.46 8481.12
+\i (00:00:07) trapsize 295
+\i (00:01:22) shape add 
+\i (00:01:24) prmed 
+\i (00:01:30) setwindow form.prmedit
+\i (00:01:30) FORM prmedit design  
+\i (00:01:34) FORM prmedit units Millimeter 
+   (00:01:34) Accuracy or unit changes can cause design round-off issues. DRCs and physical changes should be checked.
+\i (00:01:36) fillin confirm
+\e (00:01:36) Change may cause round-off; run dbcheck.
+\i (00:01:39) FORM prmedit size A4 
+\i (00:01:49) FORM prmedit y -80.0000 
+\i (00:01:52) FORM prmedit x -80.0000 
+\i (00:01:52) FORM prmedit done  
+\w (00:01:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:52) setwindow pcb
+\i (00:01:52) trapsize 750
+\t (00:01:52) Performing DRC...
+\t (00:01:52) Multithreaded DRC update (16 threads).
+\t (00:01:53) No DRC errors detected.
+\i (00:01:53) generaledit 
+\i (00:01:54) pick grid 206.3550 122.4885
+\t (00:01:54) last pick:  205.7400 121.9200
+\i (00:01:57) prmed 
+\i (00:02:10) setwindow form.prmedit
+\i (00:02:10) FORM prmedit done  
+\i (00:02:10) setwindow pcb
+\i (00:02:10) generaledit 
+\i (00:02:13) xsection 
+\i (00:02:25) QtSignal CCMQtXSectionDlg m_OkBtn clicked
+\i (00:02:25) QtSignal CCMQtXSectionDlg AddLayerDlg closed
+\i (00:02:25) generaledit 
+\i (00:02:28) define grid 
+\t (00:02:28) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:03:12) setwindow form.grid
+\i (00:03:12) FORM grid non_etch non_etch_x_grids 2.5 
+\i (00:03:14) FORM grid non_etch non_etch_y_grids 2.5 
+\i (00:03:14) FORM grid apply  
+\i (00:03:22) FORM grid display YES 
+\i (00:03:23) FORM grid done  
+\i (00:03:25) setwindow pcb
+\i (00:03:25) zoom out 1 
+\i (00:03:25) setwindow pcb
+\i (00:03:25) zoom out 203.7762 122.5035
+   (00:03:25) Loading consmgr.cxt 
+   (00:03:25) Loading acns_formula.cxt 
+\i (00:03:25) trapsize 1499
+\i (00:04:35) board outline 
+   (00:04:35) Loading floor.cxt 
+   (00:04:35) Loading fputil.cxt 
+\i (00:04:40) setwindow form.fpbdoutline
+\i (00:04:40) FORM fpbdoutline fpboplacerect YES 
+\i (00:04:45) FORM fpbdoutline fpboplacewdt 50 
+\i (00:04:46) fillin confirm
+\i (00:04:51) FORM fpbdoutline fpboclearance 2 
+\i (00:04:52) FORM fpbdoutline fpboplacewdt 50 
+\i (00:04:54) fillin confirm
+\i (00:04:58) FORM fpbdoutline fpboplacewdt '50.0000 MM' 
+\i (00:05:00) fillin confirm
+\i (00:05:09) FORM fpbdoutline fpboplacehgt '50.0000 MM' 
+\i (00:05:10) fillin confirm
+\i (00:05:10) FORM fpbdoutline done  
+\i (00:05:10) setwindow pcb
+\i (00:05:10) generaledit 
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 194.6904 116.7762
+\i (00:05:11) trapsize 2999
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 172.3808 103.5523
+\i (00:05:11) trapsize 5997
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 127.7617 77.1047
+\i (00:05:11) trapsize 11667
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 59.5333 27.1000
+\i (00:05:11) trapsize 11667
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 59.5333 27.1000
+\i (00:05:11) trapsize 11667
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 59.5333 27.1000
+\i (00:05:11) trapsize 11667
+\i (00:05:12) zoom out 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out 59.7667 27.8000
+\i (00:05:12) trapsize 11667
+\i (00:05:12) zoom out 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out 59.7667 27.8000
+\i (00:05:12) trapsize 11667
+\i (00:05:12) zoom out 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out 59.7667 27.8000
+\i (00:05:12) trapsize 11667
+\i (00:05:12) zoom in 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom in 59.7667 27.8000
+\i (00:05:12) trapsize 5833
+\i (00:05:12) zoom out 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out 59.7667 27.8000
+\i (00:05:12) trapsize 11667
+\i (00:05:12) zoom out 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out 59.7667 27.8000
+\i (00:05:12) trapsize 11667
+\i (00:05:12) zoom out 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out 59.7667 27.8000
+\i (00:05:12) trapsize 11667
+\i (00:05:12) zoom out 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out 59.7667 27.8000
+\i (00:05:12) trapsize 11667
+\i (00:05:12) zoom out 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out 59.7667 27.8000
+\i (00:05:12) trapsize 11667
+\i (00:05:13) undo 
+\i (00:05:13) trapsize 1499
+\i (00:05:13) generaledit 
+\i (00:05:14) zoom out 1 
+\i (00:05:14) setwindow pcb
+\i (00:05:14) zoom out 194.7204 116.8661
+\i (00:05:14) trapsize 2999
+\i (00:05:14) zoom out 1 
+\i (00:05:14) setwindow pcb
+\i (00:05:14) zoom out 172.4408 103.7323
+\i (00:05:14) trapsize 5997
+\i (00:05:14) zoom out 1 
+\i (00:05:14) setwindow pcb
+\i (00:05:14) zoom out 127.8816 77.4645
+\i (00:05:14) trapsize 11667
+\i (00:05:16) roam start
+\i (00:05:16) roam end
+\i (00:05:17) zoom out 1 
+\i (00:05:17) setwindow pcb
+\i (00:05:17) zoom out -15.1333 -16.5333
+\i (00:05:17) trapsize 11667
+\i (00:05:18) drag_start grid -15.1333 -16.5333
+\i (00:05:18) drag_stop -0.9000 -7.2000
+\i (00:05:19) prepopup -16.5333 -8.6000
+\i (00:05:20) pick grid -2.3000 11.2333
+\t (00:05:20) last pick:  -2.5000 10.0000
+\i (00:05:26) board outline 
+\e (00:05:38) Command not found: 0 0
+\i (00:05:42) zoom in 1 
+\i (00:05:42) setwindow pcb
+\i (00:05:42) zoom in -0.9000 0.0333
+\i (00:05:42) trapsize 5833
+\i (00:05:42) zoom in 1 
+\i (00:05:42) setwindow pcb
+\i (00:05:42) zoom in -0.9000 0.0334
+\i (00:05:42) trapsize 2917
+\i (00:05:43) pick grid 0.0333 -0.0832
+\t (00:05:43) last pick:  0.0000 0.0000
+\i (00:05:44) zoom out 1 
+\i (00:05:44) setwindow pcb
+\i (00:05:44) zoom out 24.0083 24.4167
+\i (00:05:44) trapsize 5833
+\i (00:05:48) zoom out 1 
+\i (00:05:48) setwindow pcb
+\i (00:05:48) zoom out 40.3417 38.7669
+\i (00:05:48) trapsize 11667
+\i (00:05:52) pick grid 49.2667 51.1333
+\t (00:05:52) last pick:  50.0000 50.0000
+\i (00:05:59) setwindow form.fpbdoutline
+\i (00:05:59) FORM fpbdoutline fpboclearance 2 
+\i (00:05:59) FORM fpbdoutline done  
+\i (00:05:59) setwindow pcb
+\i (00:05:59) generaledit 
+\i (00:06:09) zoom in 1 
+\i (00:06:09) setwindow pcb
+\i (00:06:09) zoom in -17.4667 30.1333
+\i (00:06:09) trapsize 5833
+\i (00:06:09) zoom in 1 
+\i (00:06:09) setwindow pcb
+\i (00:06:09) zoom in -17.4666 30.0167
+\i (00:06:09) trapsize 2917
+\i (00:06:09) zoom in 1 
+\i (00:06:09) setwindow pcb
+\i (00:06:09) zoom in -17.1749 29.7834
+\i (00:06:09) trapsize 1458
+\i (00:06:16) pick grid -0.0832 29.4334
+\t (00:06:16) last pick:  0.0000 30.0000
+\i (00:06:21) pick grid 2.0460 30.5418
+\t (00:06:21) last pick:  2.5000 30.0000
+\i (00:06:22) pick grid -1.5415 30.4251
+\t (00:06:22) last pick:  -2.5000 30.0000
+\i (00:06:23) zoom in 1 
+\i (00:06:23) setwindow pcb
+\i (00:06:23) zoom in 2.8335 30.7168
+\i (00:06:23) trapsize 729
+\i (00:06:23) zoom in 1 
+\i (00:06:23) setwindow pcb
+\i (00:06:23) zoom in 2.8335 30.7168
+\i (00:06:23) trapsize 365
+\i (00:06:23) zoom in 1 
+\i (00:06:23) setwindow pcb
+\i (00:06:23) zoom in 2.8335 30.7168
+\i (00:06:23) trapsize 182
+\i (00:06:23) zoom in 1 
+\i (00:06:23) setwindow pcb
+\i (00:06:23) zoom in 2.8335 30.7169
+\i (00:06:23) trapsize 91
+\i (00:06:24) zoom out 1 
+\i (00:06:24) setwindow pcb
+\i (00:06:24) zoom out 2.3395 30.6531
+\i (00:06:24) trapsize 182
+\i (00:06:24) zoom out 1 
+\i (00:06:24) setwindow pcb
+\i (00:06:24) zoom out 2.3396 30.6531
+\i (00:06:24) trapsize 365
+\i (00:06:25) zoom out 1 
+\i (00:06:25) setwindow pcb
+\i (00:06:25) zoom out 2.3396 30.6532
+\i (00:06:25) trapsize 729
+\i (00:06:25) zoom in 1 
+\i (00:06:25) setwindow pcb
+\i (00:06:25) zoom in 2.3396 30.6532
+\i (00:06:25) trapsize 365
+\i (00:06:25) zoom in 1 
+\i (00:06:25) setwindow pcb
+\i (00:06:25) zoom in 2.3396 30.6532
+\i (00:06:25) trapsize 182
+\i (00:06:25) zoom in 1 
+\i (00:06:25) setwindow pcb
+\i (00:06:25) zoom in 2.3396 30.6532
+\i (00:06:25) trapsize 91
+\i (00:06:26) zoom out 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom out 2.3396 30.6532
+\i (00:06:26) trapsize 182
+\i (00:06:26) zoom out 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom out 2.3397 30.6532
+\i (00:06:26) trapsize 365
+\i (00:06:26) zoom out 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom out 2.3397 30.6533
+\i (00:06:26) trapsize 729
+\i (00:06:26) zoom out 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom out 2.3397 30.6533
+\i (00:06:26) trapsize 1458
+\i (00:06:32) zoom out 1 
+\i (00:06:32) setwindow pcb
+\i (00:06:32) zoom out 7.6772 31.6449
+\i (00:06:32) trapsize 2917
+\i (00:06:33) zoom out 1 
+\i (00:06:33) setwindow pcb
+\i (00:06:33) zoom out 7.6771 31.6450
+\i (00:06:33) trapsize 5833
+\i (00:06:45) quickplace 
+\i (00:06:48) setwindow form.quickplc
+\i (00:06:48) FORM quickplc cancel  
+\i (00:06:48) setwindow pcb
+\i (00:06:48) generaledit 
+\i (00:06:50) place manual 
+\i (00:06:50) setwindow form.plc_manual
+\i (00:06:50) FORM plc_manual tree  'Components by refdes' 
+\i (00:06:54) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\t (00:06:54) Placing C1 / CAP NP_C0805_223,0805 / C0805 on Top.
+\i (00:07:00) FORM plc_manual tree 'MULTISEL NO' 'Components by refdes' 
+\i (00:07:04) FORM plc_manual tree  U1 'Components by refdes' 
+\i (00:07:04) FORM plc_manual tree 'MULTISEL YES' U1 'Components by refdes' 
+\e (00:07:04) Cannot load symbol 'SOT23-5'
+\i (00:07:06) FORM plc_manual tree  U2 'Components by refdes' 
+\i (00:07:06) FORM plc_manual tree 'MULTISEL YES' U2 'Components by refdes' 
+\i (00:07:06) FORM plc_manual tree  U1 'Components by refdes' 
+\i (00:07:06) FORM plc_manual tree 'MULTISEL NO' U1 'Components by refdes' 
+\e (00:07:06) Cannot load symbol 'LQFP48'
+\i (00:07:07) FORM plc_manual tree  U2 'Components by refdes' 
+\i (00:07:07) FORM plc_manual tree  U3 'Components by refdes' 
+\i (00:07:08) FORM plc_manual tree  U2 'Components by refdes' 
+\i (00:07:08) FORM plc_manual tree 'MULTISEL NO' U2 'Components by refdes' 
+\i (00:07:08) FORM plc_manual tree  U3 'Components by refdes' 
+\i (00:07:08) FORM plc_manual tree 'MULTISEL YES' U3 'Components by refdes' 
+\w (00:07:08) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:07:08) Placing U3 / SN65HVD230_SOIC8_SN65HVD230 / SOIC8 on Top.
+\i (00:07:13) FORM plc_manual cancel  
+\i (00:07:13) setwindow pcb
+\i (00:07:13) generaledit 
+\i (00:08:43) pick grid 44.1319 -25.0544
+\t (00:08:43) last pick:  45.0000 -25.0000
+\i (00:09:16) save 
+\i (00:09:18) fillin yes 
+\t (00:09:18) > Sending response DoneOpenBoard
+\i (00:09:18) generaledit 
+\i (00:09:22) new 
+\i (00:10:06) newdrawfillin "LQFP48.dra" "Package Symbol (Wizard)"
+\t (00:10:06)     Journal end - Thu Mar 12 20:22:50 2026

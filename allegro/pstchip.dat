@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 22.1.0 d001Mar-12-2026 at 20:06:32}
+{ Using PSTWRITER 22.1.0 d001Mar-12-2026 at 20:12:43}
 primitive 'CAP NP_C0805_223,0805';
   pin
     '1':
@@ -45,7 +45,7 @@ primitive 'CAP NP_C0805_105,0805';
     VALUE='105,0805';
   end_body;
 end_primitive;
-primitive 'LED_SMD0805_LED';
+primitive 'LED_L0805_LED';
   pin
     'ANODE':
       PIN_NUMBER='(2)';
@@ -56,11 +56,11 @@ primitive 'LED_SMD0805_LED';
   end_pin;
   body
     PART_NAME='LED';
-    JEDEC_TYPE='SMD0805';
+    JEDEC_TYPE='L0805';
     VALUE='LED';
   end_body;
 end_primitive;
-primitive 'HEADER 2_HDR1X2_CAN_HEADER';
+primitive 'HEADER 2_JUMPER2_CAN_HEADER';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -71,11 +71,11 @@ primitive 'HEADER 2_HDR1X2_CAN_HEADER';
   end_pin;
   body
     PART_NAME='HEADER 2';
-    JEDEC_TYPE='HDR1X2';
+    JEDEC_TYPE='JUMPER2';
     VALUE='CAN_HEADER';
   end_body;
 end_primitive;
-primitive 'HEADER 3_HDR1X3_UART_HEADER';
+primitive 'HEADER 3_JUMPER3_UART_HEADER';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -89,11 +89,11 @@ primitive 'HEADER 3_HDR1X3_UART_HEADER';
   end_pin;
   body
     PART_NAME='HEADER 3';
-    JEDEC_TYPE='HDR1X3';
+    JEDEC_TYPE='JUMPER3';
     VALUE='UART_HEADER';
   end_body;
 end_primitive;
-primitive 'HEADER 4_HDR1X4_SWD';
+primitive 'HEADER 4_JUMPER4_SWD';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -110,11 +110,11 @@ primitive 'HEADER 4_HDR1X4_SWD';
   end_pin;
   body
     PART_NAME='HEADER 4';
-    JEDEC_TYPE='HDR1X4';
+    JEDEC_TYPE='JUMPER4';
     VALUE='SWD';
   end_body;
 end_primitive;
-primitive 'HEADER 2_HDR1X2_SW_HEADER';
+primitive 'HEADER 2_JUMPER2_SW_HEADER';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -125,7 +125,7 @@ primitive 'HEADER 2_HDR1X2_SW_HEADER';
   end_pin;
   body
     PART_NAME='HEADER 2';
-    JEDEC_TYPE='HDR1X2';
+    JEDEC_TYPE='JUMPER2';
     VALUE='SW_HEADER';
   end_body;
 end_primitive;
@@ -204,7 +204,7 @@ primitive 'R_R0805_10K,0805';
     VALUE='10K,0805';
   end_body;
 end_primitive;
-primitive 'SW SLIDE-SPDT_HDR1X3_BOOT0 SW';
+primitive 'SW SLIDE-SPDT_JUMPER3_BOOT0 SW';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -218,11 +218,11 @@ primitive 'SW SLIDE-SPDT_HDR1X3_BOOT0 SW';
   end_pin;
   body
     PART_NAME='SW SLIDE-SPDT';
-    JEDEC_TYPE='HDR1X3';
+    JEDEC_TYPE='JUMPER3';
     VALUE='BOOT0 SW';
   end_body;
 end_primitive;
-primitive 'SW SLIDE-SPDT_HDR1X3_BOOT1 SW';
+primitive 'SW SLIDE-SPDT_JUMPER3_BOOT1 SW';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -236,11 +236,11 @@ primitive 'SW SLIDE-SPDT_HDR1X3_BOOT1 SW';
   end_pin;
   body
     PART_NAME='SW SLIDE-SPDT';
-    JEDEC_TYPE='HDR1X3';
+    JEDEC_TYPE='JUMPER3';
     VALUE='BOOT1 SW';
   end_body;
 end_primitive;
-primitive 'SW PUSHBUTTON_HDR1X2_RST_SW';
+primitive 'SW PUSHBUTTON_JUMPER2_RST_SW';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -251,11 +251,11 @@ primitive 'SW PUSHBUTTON_HDR1X2_RST_SW';
   end_pin;
   body
     PART_NAME='SW PUSHBUTTON';
-    JEDEC_TYPE='HDR1X2';
+    JEDEC_TYPE='JUMPER2';
     VALUE='RST_SW';
   end_body;
 end_primitive;
-primitive 'RT9193-33_SOT23_RT9193-33';
+primitive 'RT9193-33_SOT23-5_RT9193-33';
   pin
     'VIN':
       PIN_NUMBER='(1)';
@@ -275,7 +275,7 @@ primitive 'RT9193-33_SOT23_RT9193-33';
   end_pin;
   body
     PART_NAME='RT9193-33';
-    JEDEC_TYPE='SOT23';
+    JEDEC_TYPE='SOT23-5';
     VALUE='RT9193-33';
   end_body;
 end_primitive;

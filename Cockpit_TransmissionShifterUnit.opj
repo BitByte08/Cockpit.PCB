@@ -73,8 +73,13 @@
        "C:\USERS\PC\DESKTOP\COCKPIT.PCB\COCKPIT_TRANSMISSIONSHIFTERUNIT.DRC")
     (Display_Online_DRC_Results "FALSE")
     ("Allegro Netlist Output Board File"
-       "allegro\cockpit_transmissionshifterunit.brd"))
-  (Folder "Layout")
+       ".\allegro\cockpit_transmissionshifterunit.brd"))
+  (Folder "Layout"
+    (File ".\allegro\cockpit_transmissionshifterunit.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\cockpit_transmissionshifterunit.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
   (Folder "Outputs"
     (File ".\cockpit_transmissionshifterunit.drc"
       (Type "Report"))
@@ -99,7 +104,13 @@
   (Folder "Logs"
     (File ".\allegro\netlist.log"
       (Type "Log File")
-      (LogFile "C:\USERS\PC\DESKTOP\COCKPIT.PCB\allegro\netlist.log")))
+      (LogFile "C:\USERS\PC\DESKTOP\COCKPIT.PCB\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile "C:\USERS\PC\DESKTOP\COCKPIT.PCB\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "C:\USERS\PC\DESKTOP\COCKPIT.PCB\allegro\eco.txt")))
   (MPSSessionName "PC")
   (PartMRUSelector
     (GND
