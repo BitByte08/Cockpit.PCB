@@ -23,4 +23,5 @@
       (Sort User))
     (Folder "Include Files"
       (Sort User)))
-  (Folder "Logs"))
+  (Folder "Logs")
+  (MPSSessionName "PC"))
