@@ -1,0 +1,166 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : cockpit_transmissionshifterunit.brd           )
+(    Software Version : 22.1S008                                      )
+(    Date/Time        : Thu Mar 12 20:06:32 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\USERS\PC\DESKTOP\COCKPIT.PCB\allegro'
+Design Directory:            'C:/Users/PC/Desktop/Cockpit.PCB/allegro'
+Old design name:             'C:/Users/PC/Desktop/Cockpit.PCB/allegro/cockpit_transmissionshifterunit.brd'
+New design name:             'C:/Users/PC/Desktop/Cockpit.PCB/allegro/cockpit_transmissionshifterunit.brd'
+
+CmdLine: netrev.exe -y 1 -n -i C:\USERS\PC\DESKTOP\COCKPIT.PCB\allegro C:/Users/PC/Desktop/Cockpit.PCB/allegro/cockpit_transmissionshifterunit.brd C:/Users/PC/Desktop/Cockpit.PCB/allegro/cockpit_transmissionshifterunit.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/USERS/PC/DESKTOP/COCKPIT.PCB/allegro/pstchip.dat 
+   Finished reading C:/USERS/PC/DESKTOP/COCKPIT.PCB/allegro/pstchip.dat (00:00:00.01)
+Starting to read C:/USERS/PC/DESKTOP/COCKPIT.PCB/allegro/pstxprt.dat 
+   Finished reading C:/USERS/PC/DESKTOP/COCKPIT.PCB/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/USERS/PC/DESKTOP/COCKPIT.PCB/allegro/pstxnet.dat 
+   Finished reading C:/USERS/PC/DESKTOP/COCKPIT.PCB/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'SMD0805' for device 'LED_SMD0805_LED' has extra pin 'A'.
+
+ERROR(SPMHNI-196): Symbol 'SMD0805' for device 'LED_SMD0805_LED' has extra pin 'C'.
+
+ERROR(SPMHNI-195): Symbol 'SMD0805' for device 'LED_SMD0805_LED' is missing pin '2'.
+
+ERROR(SPMHNI-195): Symbol 'SMD0805' for device 'LED_SMD0805_LED' is missing pin '1'.
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'HDR1X2' used by RefDes J1 for device 'HEADER 2_HDR1X2_CAN_HEADER' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'HDR1X3' used by RefDes J10 for device 'HEADER 3_HDR1X3_UART_HEADER' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'HDR1X4' used by RefDes J11 for device 'HEADER 4_HDR1X4_SWD' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'HDR1X2' used by RefDes J2 for device 'HEADER 2_HDR1X2_SW_HEADER' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'HDR1X3' used by RefDes SW2 for device 'SW SLIDE-SPDT_HDR1X3_BOOT0 SW' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols
+
+#7   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'HDR1X3' used by RefDes SW3 for device 'SW SLIDE-SPDT_HDR1X3_BOOT1 SW' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols
+
+#8   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'HDR1X2' used by RefDes SW4 for device 'SW PUSHBUTTON_HDR1X2_RST_SW' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#1   ERROR(SPMHNI-191): Device/Symbol check error detected.
+
+ERROR(SPMHNI-195): Symbol 'SOT23' for device 'RT9193-33_SOT23_RT9193-33' is missing pin '4'.
+
+ERROR(SPMHNI-195): Symbol 'SOT23' for device 'RT9193-33_SOT23_RT9193-33' is missing pin '5'.
+
+#9   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LQFP48' used by RefDes U2 for device 'STM32F103C8T6_LQFP48_STM32F103C8T6' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old sym
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_22.1/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_22.1/share/local/pcb/symbols 
+           C:/Cadence/SPB_22.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_22.1/share/pcb/allegrolib/symbols 
+           C:/Users/PC/Desktop/Cockpit.PCB/simbol 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_22.1/share/local/pcb/padstacks 
+           C:/Cadence/SPB_22.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_22.1/share/pcb/allegrolib/symbols 
+           C:/SPB_Data/A01 
+
+
+------ Summary Statistics ------
+
+
+#2   Run stopped because errors were detected
+
+netrev run on Mar 12 20:06:32 2026
+   DESIGN NAME : 'COCKPIT_TRANSMISSIONSHIFTERUNIT'
+   PACKAGING ON Jan 15 2024 02:20:20
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+  2 errors detected
+ No oversight detected
+  9 warnings detected
+
+cpu time      0:00:20
+elapsed time  0:00:00
+

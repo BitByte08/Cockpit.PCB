@@ -1,0 +1,406 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 22.1.0 d001Mar-12-2026 at 20:06:32 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='COCKPIT_TRANSMISSIONSHIFTERUNIT';
+ POST_TIME='Jan 15 2024 02:20:20';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_C0805_223,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS192@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins192@discrete.\cap np.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins192@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,250)',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_C0805_104,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS5428@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins5428@discrete.\cap np.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins5428@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,90)',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_C0805_104,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS10294@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins10294@discrete.\cap np.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins10294@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,190)',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_C0805_104,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS288@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins288@discrete.\cap np.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins288@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,250)',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_C0805_105,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS322@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins322@discrete.\cap np.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins322@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,250)',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_C0805_105,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS713@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins713@discrete.\cap np.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins713@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,230)',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_C0805_104,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS778@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins778@discrete.\cap np.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins778@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,230)',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_C0805_104,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS3744@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins3744@discrete.\cap np.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins3744@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,490)',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_C0805_104,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS3783@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins3783@discrete.\cap np.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins3783@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,490)',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_C0805_104,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS3822@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins3822@discrete.\cap np.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins3822@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,560)',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_C0805_104,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS3861@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins3861@discrete.\cap np.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins3861@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,560)',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_SMD0805_LED':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS7714@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins7714@discrete.\led.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins7714@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,350)',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_SMD0805_LED':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS7915@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins7915@discrete.\led.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins7915@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,420)',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 2_HDR1X2_CAN_HEADER':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS3554@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins3554@connector.\header 2.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins3554@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,70)',
+ SECTION='';
+
+PART_NAME
+ J10 'HEADER 3_HDR1X3_UART_HEADER':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS11354@CONNECTOR.HEADER 3.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins11354@connector.\header 3.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins11354@connector.\header 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,480)',
+ SECTION='';
+
+PART_NAME
+ J11 'HEADER 4_HDR1X4_SWD':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS5382@CONNECTOR.HEADER 4.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins5382@connector.\header 4.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins5382@connector.\header 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,60)',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 2_HDR1X2_SW_HEADER':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS8819@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins8819@connector.\header 2.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins8819@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,630)',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 2_HDR1X2_SW_HEADER':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS8969@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins8969@connector.\header 2.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins8969@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,630)',
+ SECTION='';
+
+PART_NAME
+ J4 'HEADER 2_HDR1X2_SW_HEADER':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS9073@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins9073@connector.\header 2.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins9073@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,630)',
+ SECTION='';
+
+PART_NAME
+ J5 'HEADER 2_HDR1X2_SW_HEADER':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS9180@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins9180@connector.\header 2.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins9180@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,630)',
+ SECTION='';
+
+PART_NAME
+ J6 'HEADER 2_HDR1X2_SW_HEADER':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS9290@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins9290@connector.\header 2.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins9290@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,630)',
+ SECTION='';
+
+PART_NAME
+ J7 'HEADER 2_HDR1X2_SW_HEADER':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS9405@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins9405@connector.\header 2.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins9405@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,630)',
+ SECTION='';
+
+PART_NAME
+ J8 'HEADER 2_HDR1X2_SW_HEADER':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS9571@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins9571@connector.\header 2.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins9571@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,630)',
+ SECTION='';
+
+PART_NAME
+ R1 'R_R0805_10K':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS3290@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins3290@discrete.\r.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins3290@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,40)',
+ SECTION='';
+
+PART_NAME
+ R2 'R_R0805_120,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS3399@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins3399@discrete.\r.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins3399@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,80)',
+ SECTION='';
+
+PART_NAME
+ R3 'R_R0805_100K,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS5963@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins5963@discrete.\r.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins5963@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(130,490)',
+ SECTION='';
+
+PART_NAME
+ R4 'R_R0805_100K,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS6560@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins6560@discrete.\r.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins6560@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(130,560)',
+ SECTION='';
+
+PART_NAME
+ R5 'R_R0805_510R,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS7783@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins7783@discrete.\r.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins7783@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,350)',
+ SECTION='';
+
+PART_NAME
+ R6 'R_R0805_510R,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS7931@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins7931@discrete.\r.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins7931@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,420)',
+ SECTION='';
+
+PART_NAME
+ R7 'R_R0805_10K,0805':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS10434@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins10434@discrete.\r.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins10434@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,190)',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW SLIDE-SPDT_HDR1X3_BOOT0 SW':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS5922@DISCRETE.SW SLIDE-SPDT.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins5922@discrete.\sw slide-spdt.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins5922@discrete.\sw slide-spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,470)',
+ SECTION='';
+
+PART_NAME
+ SW3 'SW SLIDE-SPDT_HDR1X3_BOOT1 SW':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS6534@DISCRETE.SW SLIDE-SPDT.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins6534@discrete.\sw slide-spdt.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins6534@discrete.\sw slide-spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,540)',
+ SECTION='';
+
+PART_NAME
+ SW4 'SW PUSHBUTTON_HDR1X2_RST_SW':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS10107@DISCRETE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins10107@discrete.\sw pushbutton.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins10107@discrete.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,140)',
+ SECTION='';
+
+PART_NAME
+ U1 'RT9193-33_SOT23_RT9193-33':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS57@LIBRARY1.RT9193-33.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins57@library1.\rt9193-33.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins57@library1.\rt9193-33.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,200)',
+ SECTION='';
+
+PART_NAME
+ U2 'STM32F103C8T6_LQFP48_STM32F103C8T6':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS1160@LIBRARY1.STM32F103C8T6.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins1160@library1.\stm32f103c8t6.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins1160@library1.\stm32f103c8t6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,270)',
+ SECTION='';
+
+PART_NAME
+ U3 'SN65HVD230_SOIC8_SN65HVD230':;
+
+SECTION_NUMBER 1
+ '@COCKPIT_TRANSMISSIONSHIFTERUNIT.SCHEMATIC1(SCH_1):INS2741@LIBRARY1.SN65HVD230.NORMAL(CHIPS)':
+ C_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):ins2741@library1.\sn65hvd230.normal\(chips)',
+ P_PATH='@cockpit_transmissionshifterunit.schematic1(sch_1):page1_ins2741@library1.\sn65hvd230.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(130,70)',
+ SECTION='';
+
+END.
