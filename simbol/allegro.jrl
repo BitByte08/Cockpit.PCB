@@ -1,79 +1,77 @@
-\t (00:10:06) allegro 22.1 S008 Windows SPB 64-bit Edition
-\t (00:10:06)     Journal start - Thu Mar 12 20:22:50 2026
-\t (00:10:06)         Host=ST15 User=PC Pid=10296 CPUs=16
-\t (00:10:06) CmdLine= C:\Cadence\SPB_22.1\tools\bin\allegro.exe -mpssession PC -proj C:\USERS\PC\DESKTOP\COCKPIT.PCB\COCKPIT_TRANSMISSIONSHIFTERUNIT.opj C:/Users/PC/Desktop/Cockpit.PCB/allegro/cockpit_transmissionshifterunit.brd
-\t (00:10:06) 
-\t (00:10:06) Starting new design...
-\i (00:10:06) trapsize 11066
-\i (00:10:06) trapsize 11362
-\i (00:10:06) trapsize 11066
-\i (00:10:06) trapsize 12313
-\i (00:10:06) trapsize 12313
-\i (00:10:06) trapsize 12313
-\i (00:10:06) package symbol wizard 
-   (00:10:08) Loading cmds.cxt 
-\i (00:10:08) setwindow form.sym_wizard
-\i (00:10:08) FORM sym_wizard soic YES 
-\i (00:10:09) FORM sym_wizard plcc YES 
-\i (00:10:11) FORM sym_wizard bga YES 
-\i (00:10:12) FORM sym_wizard plcc YES 
-\i (00:10:12) FORM sym_wizard rca_smd YES 
-\i (00:10:13) FORM sym_wizard plcc YES 
-\i (00:10:14) FORM sym_wizard wiz_next  
-\i (00:10:16) FORM sym_wizard use_custom_template YES 
-\i (00:10:17) FORM sym_wizard no_custom_template YES 
-\i (00:10:20) FORM sym_wizard wiz_next  
-\i (00:10:22) fillin confirm
-\i (00:10:23) FORM sym_wizard load_template  
-\t (00:10:23) Opening existing design...
-\t (00:10:23) Grids are drawn 200, 200 apart for enhanced viewing.
-\i (00:10:23) setwindow pcb
-\i (00:10:23) trapsize 182
-\i (00:10:23) trapsize 197
-\i (00:10:23) trapsize 205
-\i (00:10:23) trapsize 197
-\t (00:10:23) Grids are drawn 200, 200 apart for enhanced viewing.
-\i (00:10:23) trapsize 197
-\d (00:10:23) Design opened: C:/Cadence/SPB_22.1/share/pcb/pcb_lib/symbols/template/sym_template.dra
-\i (00:10:23) trapsize 189
-\i (00:10:27) setwindow form.sym_wizard
-\i (00:10:27) FORM sym_wizard wiz_next  
-\i (00:10:29) FORM sym_wizard pack_units Millimeter 
-\i (00:10:31) FORM sym_wizard pack_units_create Millimeter 
-\i (00:11:07) FORM sym_wizard wiz_next  
-\i (00:11:12) FORM sym_wizard qfp_pin_count_v 1 
-\i (00:11:12) FORM sym_wizard qfp_pin_count_v 12 
-\i (00:11:13) FORM sym_wizard qfp_pin_count_h 1 
-\i (00:11:13) FORM sym_wizard qfp_pin_count_h 12 
-\i (00:11:17) FORM sym_wizard qfp_pin1_corner YES 
-\i (00:11:39) FORM sym_wizard qfp_e 0.500 
-\i (00:11:39) FORM sym_wizard wiz_next  
-\i (00:12:13) FORM sym_wizard qfp_e1 8.000 
-\i (00:12:14) FORM sym_wizard qfp_e2 8.000 
-\i (00:12:15) FORM sym_wizard qfp_width 7.000 
-\i (00:12:16) FORM sym_wizard qfp_len 7.000 
-\i (00:12:16) FORM sym_wizard wiz_next  
-\i (00:12:19) FORM sym_wizard default_pad_browse  
-\i (00:13:03) fillin "menu_cancel"
-\i (00:16:16) FORM sym_wizard default_pad_browse  
-\i (00:16:22) fillin "menu_cancel"
-\i (00:16:24) FORM sym_wizard cancel  
-\i (00:16:24) setwindow pcb
-\i (00:16:24) generaledit 
-\i (00:16:30) enved 
-\i (00:16:30) setwindow form.prfedit
-\i (00:16:30) FORM prfedit treelist  My_favorites 
-\i (00:16:30) setwindow pcb
-\i (00:16:30) generaledit 
-\i (00:16:35) setwindow form.prfedit
-\i (00:16:35) FORM prfedit treelist  Paths 
-\i (00:16:36) FORM prfedit treelist  Library Paths 
-\i (00:16:39) FORM prfedit padpath  
-\i (00:16:49) fillin "C:/Users/PC/Desktop/Cockpit.PCB/pad"
-\i (00:16:52) FORM prfedit apply  
-\i (00:16:52) FORM prfedit done  
-\i (00:16:54) setwindow pcb
-\i (00:16:54) exit 
-\e (00:16:54) Do you want to save the changes you made to LQFP48.dra?
-\i (00:16:57) fillin no 
-\t (00:16:57)     Journal end - Thu Mar 12 20:29:42 2026
+\t (00:00:22) allegro 22.1 S008 Windows SPB 64-bit Edition
+\t (00:00:22)     Journal start - Thu Mar 12 20:32:57 2026
+\t (00:00:22)         Host=ST15 User=PC Pid=7860 CPUs=16
+\t (00:00:22) CmdLine= C:\Cadence\SPB_22.1\tools\bin\allegro.exe
+\t (00:00:22) 
+\t (00:00:22) Starting new design...
+\i (00:00:22) trapsize 19873
+\i (00:00:22) trapsize 20406
+\i (00:00:22) trapsize 19873
+\i (00:00:22) trapsize 22114
+\i (00:00:22) trapsize 23989
+\i (00:00:22) trapsize 23989
+\i (00:00:22) package symbol wizard 
+   (00:00:23) Loading cmds.cxt 
+\i (00:00:23) setwindow form.sym_wizard
+\i (00:00:23) FORM sym_wizard plcc YES 
+\i (00:00:24) FORM sym_wizard wiz_next  
+\i (00:00:25) FORM sym_wizard use_custom_template YES 
+\i (00:00:25) FORM sym_wizard no_custom_template YES 
+\i (00:00:26) FORM sym_wizard load_template  
+\t (00:00:26) Opening existing design...
+\t (00:00:26) Grids are drawn 200, 200 apart for enhanced viewing.
+\i (00:00:26) setwindow pcb
+\i (00:00:26) trapsize 182
+\i (00:00:26) trapsize 197
+\i (00:00:26) trapsize 205
+\i (00:00:26) trapsize 197
+\t (00:00:26) Grids are drawn 200, 200 apart for enhanced viewing.
+\i (00:00:26) trapsize 197
+\d (00:00:26) Design opened: C:/Cadence/SPB_22.1/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:00:26) trapsize 189
+\i (00:00:26) setwindow form.sym_wizard
+\i (00:00:26) FORM sym_wizard wiz_next  
+\i (00:00:28) FORM sym_wizard pack_units Millimeter 
+\i (00:00:29) FORM sym_wizard pack_units_create Millimeter 
+\i (00:00:30) FORM sym_wizard wiz_next  
+\i (00:00:31) FORM sym_wizard qfp_pin_count_v 12 
+\i (00:00:31) FORM sym_wizard qfp_pin_count_h 12 
+\i (00:00:32) FORM sym_wizard qfp_pin1_corner YES 
+\i (00:00:36) FORM sym_wizard qfp_e 0.500 
+\i (00:00:37) FORM sym_wizard wiz_next  
+\i (00:00:42) FORM sym_wizard qfp_e1 8.000 
+\i (00:00:43) FORM sym_wizard qfp_e2 8.000 
+\i (00:00:43) FORM sym_wizard qfp_width 7.000 
+\i (00:00:44) FORM sym_wizard qfp_len 7.000 
+\i (00:00:44) FORM sym_wizard wiz_next  
+\i (00:00:46) FORM sym_wizard default_pad_browse  
+\i (00:00:55) fillin "Smd0_25Rec1_5"
+\i (00:00:56) FORM sym_wizard wiz_next  
+\i (00:00:57) FORM sym_wizard origin_at_pin1 YES 
+\i (00:01:00) FORM sym_wizard wiz_next  
+\i (00:01:01) FORM sym_wizard wiz_finish  
+\w (00:01:01) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:01) Grids are drawn 5.080, 5.080 apart for enhanced viewing.
+\i (00:01:01) setwindow pcb
+\i (00:01:01) trapsize 4798
+\t (00:01:01) Performing DRC...
+\t (00:01:01) No DRC errors detected.
+\w (00:01:01) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:01) trapsize 4798
+\i (00:01:02) trapsize 85
+\i (00:01:02) trapsize 68
+\i (00:01:02) trapsize 68
+\i (00:01:02) trapsize 68
+\t (00:01:02) Performing DRC...
+\t (00:01:02) No DRC errors detected.
+\i (00:01:04) fillin yes 
+\i (00:01:06) fillin yes 
+\t (00:01:06) Creating package symbol 'C:/Users/PC/Desktop/Cockpit.PCB/simbol/lqfp48.psm'.
+\t (00:01:06) Starting Create symbol...
+\i (00:01:06) generaledit 
+\i (00:01:07) save 
+\i (00:01:10) fillin yes 
+\t (00:01:10) Symbol 'lqfp48.psm' created.
+\i (00:01:10) generaledit 
+\i (00:01:16) exit 
+\t (00:01:16)     Journal end - Thu Mar 12 20:33:51 2026

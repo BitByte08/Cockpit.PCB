@@ -1,1 +1,1 @@
-SMD0805.dra
+LQFP48.dra
