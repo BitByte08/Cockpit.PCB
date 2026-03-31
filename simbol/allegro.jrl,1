@@ -1,77 +1,65 @@
-\t (00:00:46) allegro 22.1 S008 Windows SPB 64-bit Edition
-\t (00:00:46)     Journal start - Thu Mar 12 20:30:35 2026
-\t (00:00:46)         Host=ST15 User=PC Pid=12132 CPUs=16
-\t (00:00:46) CmdLine= C:\Cadence\SPB_22.1\tools\bin\allegro.exe
-\t (00:00:46) 
-\t (00:00:46) Starting new design...
-\i (00:00:46) trapsize 19873
-\i (00:00:46) trapsize 20406
-\i (00:00:46) trapsize 19873
-\i (00:00:46) trapsize 22114
-\i (00:00:46) trapsize 23989
-\i (00:00:46) trapsize 23989
-\i (00:00:46) package symbol wizard 
-   (00:00:47) Loading cmds.cxt 
-\i (00:00:47) setwindow form.sym_wizard
-\i (00:00:47) FORM sym_wizard plcc YES 
-\i (00:00:50) FORM sym_wizard wiz_next  
-\i (00:00:52) FORM sym_wizard load_template  
-\t (00:00:52) Opening existing design...
-\t (00:00:52) Grids are drawn 200, 200 apart for enhanced viewing.
-\i (00:00:52) setwindow pcb
-\i (00:00:52) trapsize 182
-\i (00:00:52) trapsize 197
-\i (00:00:52) trapsize 205
-\i (00:00:52) trapsize 197
-\t (00:00:52) Grids are drawn 200, 200 apart for enhanced viewing.
-\i (00:00:52) trapsize 197
-\d (00:00:52) Design opened: C:/Cadence/SPB_22.1/share/pcb/pcb_lib/symbols/template/sym_template.dra
-\i (00:00:52) trapsize 189
-\i (00:00:54) setwindow form.sym_wizard
-\i (00:00:54) FORM sym_wizard wiz_next  
-\i (00:00:56) FORM sym_wizard pack_units Millimeter 
-\i (00:00:57) FORM sym_wizard pack_units_create Millimeter 
-\i (00:00:59) FORM sym_wizard wiz_next  
-\i (00:01:00) FORM sym_wizard qfp_pin_count_v 12 
-\i (00:01:00) FORM sym_wizard qfp_pin_count_h 12 
-\i (00:01:01) FORM sym_wizard qfp_pin1_corner YES 
-\i (00:01:02) FORM sym_wizard qfp_pin1_middle YES 
-\i (00:01:03) FORM sym_wizard qfp_pin1_corner YES 
-\i (00:01:13) FORM sym_wizard qfp_e 0.500 
-\i (00:01:13) FORM sym_wizard wiz_next  
-\i (00:01:19) FORM sym_wizard qfp_e1 8.000 
-\i (00:01:20) FORM sym_wizard qfp_e2 8.000 
-\i (00:01:20) FORM sym_wizard qfp_width 7.000 
-\i (00:01:22) FORM sym_wizard qfp_len 7.000 
-\i (00:01:22) FORM sym_wizard wiz_next  
-\i (00:01:23) FORM sym_wizard default_pad_browse  
-\i (00:01:28) fillin "Smd0_25Rec1_5"
-\i (00:01:32) FORM sym_wizard wiz_next  
-\i (00:01:34) FORM sym_wizard origin_at_pin1 YES 
-\i (00:01:35) FORM sym_wizard origin_at_body_center YES 
-\i (00:01:37) FORM sym_wizard origin_at_pin1 YES 
-\i (00:01:44) FORM sym_wizard wiz_next  
-\i (00:01:46) FORM sym_wizard wiz_finish  
-\w (00:01:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:01:46) Grids are drawn 5.080, 5.080 apart for enhanced viewing.
-\i (00:01:46) setwindow pcb
-\i (00:01:46) trapsize 4798
-\t (00:01:46) Performing DRC...
-\t (00:01:46) No DRC errors detected.
-\w (00:01:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:01:46) trapsize 4798
-\i (00:01:47) trapsize 85
-\i (00:01:47) trapsize 68
-\i (00:01:47) trapsize 68
-\i (00:01:47) trapsize 68
-\t (00:01:47) Performing DRC...
-\t (00:01:47) DRC done; 120 errors detected.
-\t (00:01:47) Creating package symbol 'C:/Users/PC/Desktop/Cockpit.PCB/simbol/lqfp48.psm'.
-\t (00:01:47) Starting Create symbol...
-\i (00:01:47) generaledit 
-\i (00:01:50) undo 
-\i (00:01:50) generaledit 
-\i (00:01:51) undo 
-\i (00:01:51) generaledit 
-\i (00:01:53) exit 
-\t (00:01:53)     Journal end - Thu Mar 12 20:31:42 2026
+\t (00:02:41) allegro 22.1 S008 Windows SPB 64-bit Edition
+\t (00:02:41)     Journal start - Tue Mar 24 16:31:20 2026
+\t (00:02:41)         Host=ST09 User=PC Pid=10760 CPUs=16
+\t (00:02:41) CmdLine= C:\Cadence\SPB_22.1\tools\bin\allegro.exe
+\t (00:02:41) 
+\t (00:02:41) Starting new design...
+\i (00:02:41) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "SOT23-5"
+\i (00:02:41) trapsize 19873
+\i (00:02:41) trapsize 20406
+\i (00:02:41) trapsize 19873
+\i (00:02:41) trapsize 24960
+\i (00:02:41) trapsize 24960
+\i (00:02:41) package symbol wizard 
+   (00:02:41) Loading cmds.cxt 
+\i (00:02:41) trapsize 23989
+\i (00:02:43) setwindow form.sym_wizard
+\i (00:02:43) FORM sym_wizard soic YES 
+\i (00:07:06) FORM sym_wizard wiz_next  
+\i (00:07:07) FORM sym_wizard load_template  
+\t (00:07:07) Opening existing design...
+\t (00:07:07) Grids are drawn 200, 200 apart for enhanced viewing.
+\i (00:07:07) setwindow pcb
+\i (00:07:07) trapsize 164
+\i (00:07:07) trapsize 168
+\i (00:07:07) trapsize 164
+\t (00:07:07) Grids are drawn 200, 200 apart for enhanced viewing.
+\i (00:07:08) trapsize 197
+\d (00:07:08) Design opened: C:/Cadence/SPB_22.1/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:07:08) trapsize 189
+\i (00:07:08) setwindow form.sym_wizard
+\i (00:07:08) FORM sym_wizard wiz_next  
+\i (00:07:10) FORM sym_wizard pack_units Millimeter 
+\i (00:07:11) FORM sym_wizard pack_units_create Millimeter 
+\i (00:07:12) FORM sym_wizard wiz_next  
+\i (00:07:14) FORM sym_wizard sop_pin_count 13 
+\i (00:07:14) FORM sym_wizard sop_pin_count 12 
+\i (00:07:14) FORM sym_wizard sop_pin_count 11 
+\i (00:07:15) FORM sym_wizard sop_pin_count 10 
+\i (00:07:15) FORM sym_wizard sop_pin_count 9 
+\i (00:07:15) FORM sym_wizard sop_pin_count 8 
+\i (00:07:15) FORM sym_wizard sop_pin_count 7 
+\i (00:07:16) FORM sym_wizard sop_pin_count 6 
+\i (00:07:16) FORM sym_wizard sop_pin_count 5 
+\i (00:07:39) FORM sym_wizard sop_len 2.800 
+\i (00:07:45) FORM sym_wizard sop_width 1.500 
+\i (00:08:42) FORM sym_wizard cancel  
+\i (00:08:42) setwindow pcb
+\i (00:08:42) generaledit 
+\i (00:08:43) open 
+\e (00:08:43) Do you want to save the changes you made to SOT23-5.dra?
+\i (00:08:44) fillin menu_cancel 
+\i (00:08:45) generaledit 
+\i (00:08:46) open 
+\e (00:08:46) Do you want to save the changes you made to SOT23-5.dra?
+\i (00:08:48) fillin no 
+\i (00:09:14) fillin "D:/263312/Cockpit.PCB/allegro/cockpit_transmissionshifterunit.brd"
+\i (00:09:14) cd "D:/263312/Cockpit.PCB/allegro"
+\t (00:09:14) Opening existing design...
+\i (00:09:14) trapsize 2917
+\i (00:09:14) trapsize 2995
+\i (00:09:14) trapsize 2917
+\t (00:09:14) Grids are drawn 40.0000, 40.0000 apart for enhanced viewing.
+\i (00:09:14) trapsize 3035
+\t (00:09:14) > Sending response DoneOpenBoard
+\t (00:09:14)     Journal end - Tue Mar 24 16:37:53 2026

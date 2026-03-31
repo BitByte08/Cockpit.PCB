@@ -1,1 +1,1 @@
-LQFP48.dra
+SOT-23-5.dra

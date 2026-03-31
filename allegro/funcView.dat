@@ -1,0 +1,38 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
+J!d:/263312/cockpit.pcb/allegro/cockpit_transmissionshifterunit.brd!Tue Mar 24 17:33:13 2026!-80.0000!-80.0000!217.0000!130.0000!0.0001!millimeters!COCKPIT_TRANSMISSIONSHIFTERUNIT!10.400000 mil!2!UP TO DATE!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins57@library1.\rt9193-33.normal\(chips)!RT9193-33_SOT-23-5_RT9193-33!U1!.\chipsView.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins192@discrete.\cap np.normal\(chips)!CAP NP_C0805_223,0805!C1!.\chipsView.dat!!!!!!F35!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins5428@discrete.\cap np.normal\(chips)!CAP NP_C0805_104,0805!C10!.\chipsView.dat!!!!!!F34!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins10294@discrete.\cap np.normal\(chips)!CAP NP_C0805_104,0805!C11!.\chipsView.dat!!!!!!F33!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins288@discrete.\cap np.normal\(chips)!CAP NP_C0805_104,0805!C2!.\chipsView.dat!!!!!!F32!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins778@discrete.\cap np.normal\(chips)!CAP NP_C0805_104,0805!C5!.\chipsView.dat!!!!!!F31!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins3744@discrete.\cap np.normal\(chips)!CAP NP_C0805_104,0805!C6!.\chipsView.dat!!!!!!F30!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins3783@discrete.\cap np.normal\(chips)!CAP NP_C0805_104,0805!C7!.\chipsView.dat!!!!!!F29!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins3822@discrete.\cap np.normal\(chips)!CAP NP_C0805_104,0805!C8!.\chipsView.dat!!!!!!F28!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins3861@discrete.\cap np.normal\(chips)!CAP NP_C0805_104,0805!C9!.\chipsView.dat!!!!!!F27!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins322@discrete.\cap np.normal\(chips)!CAP NP_C0805_105,0805!C3!.\chipsView.dat!!!!!!F26!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins713@discrete.\cap np.normal\(chips)!CAP NP_C0805_105,0805!C4!.\chipsView.dat!!!!!!F25!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins7714@discrete.\led.normal\(chips)!LED_L0805_LED!D1!.\chipsView.dat!!!!!!F24!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins7915@discrete.\led.normal\(chips)!LED_L0805_LED!D2!.\chipsView.dat!!!!!!F23!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins3554@connector.\header 2.normal\(chips)!HEADER 2_JUMPER2_CAN_HEADER!J1!.\chipsView.dat!!!!!!F22!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins11354@connector.\header 3.normal\(chips)!HEADER 3_JUMPER3_UART_HEADER!J10!.\chipsView.dat!!!!!!F21!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins5382@connector.\header 4.normal\(chips)!HEADER 4_JUMPER4_SWD!J11!.\chipsView.dat!!!!!!F20!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins8819@connector.\header 2.normal\(chips)!HEADER 2_JUMPER2_SW_HEADER!J2!.\chipsView.dat!!!!!!F19!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins8969@connector.\header 2.normal\(chips)!HEADER 2_JUMPER2_SW_HEADER!J3!.\chipsView.dat!!!!!!F18!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins9073@connector.\header 2.normal\(chips)!HEADER 2_JUMPER2_SW_HEADER!J4!.\chipsView.dat!!!!!!F17!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins9180@connector.\header 2.normal\(chips)!HEADER 2_JUMPER2_SW_HEADER!J5!.\chipsView.dat!!!!!!F16!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins9290@connector.\header 2.normal\(chips)!HEADER 2_JUMPER2_SW_HEADER!J6!.\chipsView.dat!!!!!!F15!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins9405@connector.\header 2.normal\(chips)!HEADER 2_JUMPER2_SW_HEADER!J7!.\chipsView.dat!!!!!!F14!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins9571@connector.\header 2.normal\(chips)!HEADER 2_JUMPER2_SW_HEADER!J8!.\chipsView.dat!!!!!!F13!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins3290@discrete.\r.normal\(chips)!R_R0805_10K!R1!.\chipsView.dat!!!!!!F12!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins3399@discrete.\r.normal\(chips)!R_R0805_120,0805!R2!.\chipsView.dat!!!!!!F11!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins5963@discrete.\r.normal\(chips)!R_R0805_100K,0805!R3!.\chipsView.dat!!!!!!F10!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins6560@discrete.\r.normal\(chips)!R_R0805_100K,0805!R4!.\chipsView.dat!!!!!!F9!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins7783@discrete.\r.normal\(chips)!R_R0805_510R,0805!R5!.\chipsView.dat!!!!!!F8!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins7931@discrete.\r.normal\(chips)!R_R0805_510R,0805!R6!.\chipsView.dat!!!!!!F7!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins10434@discrete.\r.normal\(chips)!R_R0805_10K,0805!R7!.\chipsView.dat!!!!!!F6!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins5922@discrete.\sw slide-spdt.normal\(chips)!SW SLIDE-SPDT_JUMPER3_BOOT0 SW!SW2!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins6534@discrete.\sw slide-spdt.normal\(chips)!SW SLIDE-SPDT_JUMPER3_BOOT1 SW!SW3!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins10107@discrete.\sw pushbutton.normal\(chips)!SW PUSHBUTTON_JUMPER2_RST_SW!SW4!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins1160@library1.\stm32f103c8t6.normal\(chips)!STM32F103C8T6_LQFP48_STM32F103C8T6!U2!.\chipsView.dat!!!!!!F1!!!!!!!!!!!!!!!!!!
+S!@cockpit_transmissionshifterunit.schematic1(sch_1):ins2741@library1.\sn65hvd230.normal\(chips)!SN65HVD230_SOIC8_SN65HVD230!U3!.\chipsView.dat!!!!!!F0!!!!!!!!!!!!!!!!!!

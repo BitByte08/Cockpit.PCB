@@ -1,0 +1,58 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Tue Mar 24 19:07:49 2026
+# 
+# Allegro PCB Router v22-1-0 made 2023/06/23 at 12:48:59
+# Running on: st09, OS Version: WindowsNT 6.2.9200, Architecture: Intel Pentium II, III, or 4
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name d:/263312/cockpit.pcb/allegro\cockpit_transmissionshifterunit.dsn
+# Batch File Name: pasde.do
+# Did File Name: d:/263312/cockpit.pcb/allegro/specctra.did
+# Current time = Tue Mar 24 19:07:49 2026
+# PCB d:/263312/cockpit.pcb/allegro
+# Master Unit set up as: MM 100000
+# PCB Limits xlo= -0.6750 ylo=  0.9250 xhi= 58.1750 yhi= 24.5750
+# Total 31 Images Consolidated.
+# Via VIA z=1, 2 xlo= -0.3048 ylo= -0.3048 xhi=  0.3048 yhi=  0.3048
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# Wires Processed 36, Vias Processed 0
+# Using colormap in design file.
+# Layers Processed: Signal Layers 2
+# Components Placed 36, Images Processed 45, Padstacks Processed 6
+# Nets Processed 29, Net Terminals 109
+# PCB Area= 1150.250  EIC=9  Area/EIC=127.806  SMDs=23
+# Total Pin Count: 132
+# Signal Connections Created 44
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- d:/263312/cockpit.pcb/allegro\cockpit_transmissionshifterunit.dsn
+# Nets 29 Connections 80 Unroutes 44
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected   45.00
+# Manhattan Length 640.1990 Horizontal 440.6350 Vertical 199.5640
+# Routed Length 199.0877 Horizontal 148.1300 Vertical  72.7700
+# Ratio Actual / Manhattan   0.3110
+# Unconnected Length 430.0390 Horizontal 257.4150 Vertical 172.6240
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Loading Do File pasde.do ...
+# Loading Do File d:/263312/cockpit.pcb/allegro\cockpit_transmissionshifterunit_rules.do ...
+# Colormap Written to File _notify.std
+# Enter command <quit

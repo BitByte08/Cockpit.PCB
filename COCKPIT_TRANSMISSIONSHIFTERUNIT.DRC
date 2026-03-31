@@ -1,4 +1,4 @@
-Date and Time : 03/12/26 20:12:37
+Date and Time : 03/24/26 16:39:51
 
 --------------------------------------------------
 Checking Schematic: SCHEMATIC1
@@ -43,30 +43,30 @@ Checking Name Property for Hierarchical Instances
 INFO(ORCAP-2211): Check High Speed Properties Syntax
 
 INFO(ORCAP-2212): Check Power Ground Mismatch
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,VSS_1  VSS_1  GND
-                    SCHEMATIC1, PAGE1  (149.86, 129.54) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,VSSA  VSSA  GND
                     SCHEMATIC1, PAGE1  (104.14, 99.06) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,VSS_2  VSS_2  GND
-                    SCHEMATIC1, PAGE1  (172.72, 83.82) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,VSS_3  VSS_3  GND
                     SCHEMATIC1, PAGE1  (127.00, 60.96) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U1,EN  EN  5V
-                    SCHEMATIC1, PAGE1  (48.26, 63.50) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,VSS_1  VSS_1  GND
+                    SCHEMATIC1, PAGE1  (149.86, 129.54) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,VSS_2  VSS_2  GND
+                    SCHEMATIC1, PAGE1  (172.72, 83.82) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U1,VIN  VIN  5V
                     SCHEMATIC1, PAGE1  (48.26, 53.34) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U1,EN  EN  5V
+                    SCHEMATIC1, PAGE1  (48.26, 63.50) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U1,VOUT  VOUT  VCC3V3
                     SCHEMATIC1, PAGE1  (78.74, 53.34) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U3,VCC  VCC  VCC3V3
                     SCHEMATIC1, PAGE1  (25.40, 25.40) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,VDD_1  VDD_1  VCC3V3
+                    SCHEMATIC1, PAGE1  (152.40, 129.54) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,VDDA  VDDA  VCC3V3
                     SCHEMATIC1, PAGE1  (104.14, 101.60) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,VDD_2  VDD_2  VCC3V3
                     SCHEMATIC1, PAGE1  (172.72, 81.28) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,VDD_3  VDD_3  VCC3V3
                     SCHEMATIC1, PAGE1  (124.46, 60.96) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,VDD_1  VDD_1  VCC3V3
-                    SCHEMATIC1, PAGE1  (152.40, 129.54) 
 
 Reporting Unused Refdes in multiple part packages
 Part	                       Quantity	                       Reference

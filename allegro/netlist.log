@@ -1,12 +1,12 @@
-{ Using PSTWRITER 22.1.0 d001Mar-12-2026 at 20:12:43 }
+{ Using PSTWRITER 22.1.0 d001Mar-24-2026 at 17:33:18 }
 
 INFO(ORCAP-36080): Scanning netlist files ...
 
-Loading... C:\USERS\PC\DESKTOP\COCKPIT.PCB\allegro\pstchip.dat
+Loading... d:\263312\cockpit.pcb\allegro\pstchip.dat
 
-Loading... C:\USERS\PC\DESKTOP\COCKPIT.PCB\allegro\pstchip.dat
+Loading... d:\263312\cockpit.pcb\allegro\pstchip.dat
 
-Loading... C:\USERS\PC\DESKTOP\COCKPIT.PCB\allegro\pstxprt.dat
+Loading... d:\263312\cockpit.pcb\allegro\pstxprt.dat
 
-Loading... C:\USERS\PC\DESKTOP\COCKPIT.PCB\allegro\pstxnet.dat
+Loading... d:\263312\cockpit.pcb\allegro\pstxnet.dat
 packaging the design view...

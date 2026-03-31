@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 22.1.0 d001Mar-12-2026 at 20:12:43}
+{ Using PSTWRITER 22.1.0 d001Mar-24-2026 at 17:33:18}
 primitive 'CAP NP_C0805_223,0805';
   pin
     '1':
@@ -255,7 +255,7 @@ primitive 'SW PUSHBUTTON_JUMPER2_RST_SW';
     VALUE='RST_SW';
   end_body;
 end_primitive;
-primitive 'RT9193-33_SOT23-5_RT9193-33';
+primitive 'RT9193-33_SOT-23-5_RT9193-33';
   pin
     'VIN':
       PIN_NUMBER='(1)';
@@ -275,7 +275,7 @@ primitive 'RT9193-33_SOT23-5_RT9193-33';
   end_pin;
   body
     PART_NAME='RT9193-33';
-    JEDEC_TYPE='SOT23-5';
+    JEDEC_TYPE='SOT-23-5';
     VALUE='RT9193-33';
   end_body;
 end_primitive;

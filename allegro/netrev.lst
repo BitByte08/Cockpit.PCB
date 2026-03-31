@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : cockpit_transmissionshifterunit.brd           )
 (    Software Version : 22.1S008                                      )
-(    Date/Time        : Thu Mar 12 20:12:43 2026                      )
+(    Date/Time        : Tue Mar 24 17:33:18 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -17,38 +17,24 @@ Ripup retain bondwire:       No
 Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         'C:\USERS\PC\DESKTOP\COCKPIT.PCB\allegro'
-Design Directory:            'C:/Users/PC/Desktop/Cockpit.PCB/allegro'
-Old design name:             'C:/Users/PC/Desktop/Cockpit.PCB/allegro/cockpit_transmissionshifterunit.brd'
-New design name:             'C:/Users/PC/Desktop/Cockpit.PCB/allegro/cockpit_transmissionshifterunit.brd'
+Schematic directory:         'd:\263312\cockpit.pcb\allegro'
+Design Directory:            'd:/263312/cockpit.pcb/allegro'
+Old design name:             'd:/263312/cockpit.pcb/allegro/cockpit_transmissionshifterunit.brd'
+New design name:             'd:/263312/cockpit.pcb/allegro/cockpit_transmissionshifterunit.brd'
 
-CmdLine: netrev.exe -y 1 -n -i C:\USERS\PC\DESKTOP\COCKPIT.PCB\allegro C:/Users/PC/Desktop/Cockpit.PCB/allegro/cockpit_transmissionshifterunit.brd C:/Users/PC/Desktop/Cockpit.PCB/allegro/cockpit_transmissionshifterunit.brd
+CmdLine: netrev -y 1 -i d:\263312\cockpit.pcb\allegro -q netrev_constraint_report.xml d:/263312/cockpit.pcb/allegro/#Taaaaaf15324.tmp
 
 ------ Preparing to read pst files ------
 
-Starting to read C:/USERS/PC/DESKTOP/COCKPIT.PCB/allegro/pstchip.dat 
-   Finished reading C:/USERS/PC/DESKTOP/COCKPIT.PCB/allegro/pstchip.dat (00:00:00.01)
-Starting to read C:/USERS/PC/DESKTOP/COCKPIT.PCB/allegro/pstxprt.dat 
-   Finished reading C:/USERS/PC/DESKTOP/COCKPIT.PCB/allegro/pstxprt.dat (00:00:00.00)
-Starting to read C:/USERS/PC/DESKTOP/COCKPIT.PCB/allegro/pstxnet.dat 
-   Finished reading C:/USERS/PC/DESKTOP/COCKPIT.PCB/allegro/pstxnet.dat (00:00:00.00)
+Starting to read d:/263312/cockpit.pcb/allegro/pstchip.dat 
+   Finished reading d:/263312/cockpit.pcb/allegro/pstchip.dat (00:00:00.01)
+Starting to read d:/263312/cockpit.pcb/allegro/pstxprt.dat 
+   Finished reading d:/263312/cockpit.pcb/allegro/pstxprt.dat (00:00:00.00)
+Starting to read d:/263312/cockpit.pcb/allegro/pstxnet.dat 
+   Finished reading d:/263312/cockpit.pcb/allegro/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
-
-#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'SOT23-5' used by RefDes U1 for device 'RT9193-33_SOT23-5_RT9193-33' not found. 
-The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
-
-Set the correct library path if not set or use dbdoctor to migrate old symbols.
-
-#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'LQFP48' used by RefDes U2 for device 'STM32F103C8T6_LQFP48_STM32F103C8T6' not found. 
-The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
-
-Set the correct library path if not set or use dbdoctor to migrate old sym
 
 ------ Library Paths ------
 MODULEPATH =  . 
@@ -61,7 +47,7 @@ PSMPATH =  .
            C:/Cadence/SPB_22.1/share/local/pcb/symbols 
            C:/Cadence/SPB_22.1/share/pcb/pcb_lib/symbols 
            C:/Cadence/SPB_22.1/share/pcb/allegrolib/symbols 
-           C:/Users/PC/Desktop/Cockpit.PCB/simbol 
+           D:/263312/Cockpit.PCB/simbol 
 
 PADPATH =  . 
            symbols 
@@ -70,13 +56,13 @@ PADPATH =  .
            C:/Cadence/SPB_22.1/share/local/pcb/padstacks 
            C:/Cadence/SPB_22.1/share/pcb/pcb_lib/symbols 
            C:/Cadence/SPB_22.1/share/pcb/allegrolib/symbols 
-           C:/SPB_Data/A01 
+           D:/263312/Cockpit.PCB/pad 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Mar 12 20:12:43 2026
+netrev run on Mar 24 17:33:18 2026
    DESIGN NAME : 'COCKPIT_TRANSMISSIONSHIFTERUNIT'
    PACKAGING ON Jan 15 2024 02:20:20
 
@@ -99,8 +85,8 @@ netrev run on Mar 12 20:12:43 2026
 
  No error detected
  No oversight detected
-  2 warnings detected
+ No warning detected
 
-cpu time      0:00:22
-elapsed time  0:00:01
+cpu time      0:00:21
+elapsed time  0:00:00
 
